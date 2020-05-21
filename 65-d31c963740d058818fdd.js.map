@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/mycomponents/game/Views/Image/images/goddess.png"],"names":["module","exports"],"mappings":"iFAAAA,EAAOC,QAAU,IAA0B","file":"65-d31c963740d058818fdd.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/goddess-e3ca90a8bb2fe0df6be1f46905dc2dcc.png\";"],"sourceRoot":""}

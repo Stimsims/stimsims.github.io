@@ -1,0 +1,23 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/ari.png": "static/ari-94739a78452c8553de8ed9b6b1ddc972.png",
+  "static/f1-annoyed.mp3": "static/f1-annoyed-b9227b539c2456c0a25b1a0c1b3fae7c.mp3",
+  "static/f1-gasp.wav": "static/f1-gasp-f35576d7df88176362919b8360db2603.wav",
+  "static/f1-grumble.mp3": "static/f1-grumble-b9227b539c2456c0a25b1a0c1b3fae7c.mp3",
+  "static/f1-how.wav": "static/f1-how-148a17ac3d88a1e66c653368b0b6a63f.wav",
+  "static/f1-laugh.mp3": "static/f1-laugh-0a0a357909205a8e1f96574985492cb0.mp3",
+  "static/f1-okay.wav": "static/f1-okay-2acfc651ff09123fa882d32ac978ea47.wav",
+  "static/f1-sigh.mp3": "static/f1-sigh-73d5730c8024d3f22fcca49d330e4d03.mp3",
+  "static/f1-what.wav": "static/f1-what-1517f2d6c7cddbe509ad5a1ad5470a26.wav",
+  "static/f1-why.wav": "static/f1-why-29424f8bac61e837b498834bce6330f7.wav",
+  "static/goddess.png": "static/goddess-e3ca90a8bb2fe0df6be1f46905dc2dcc.png",
+  "static/good-work-neku.mp3": "static/good-work-neku-597291c56bd75407c9a76ca36d2b1636.mp3",
+  "static/joshua.png": "static/joshua-ca3032099371b3e30a263d01aea574e7.png",
+  "static/kara.png": "static/kara-e4a8cc75358bac94dd9e632293014f39.png",
+  "static/neku.png": "static/neku-b0e3a531e47f802f2260ac3b818dc4d4.png",
+  "static/observe-the-star.mp3": "static/observe-the-star-c4d095de6ec6a459d4a16c97aad038d7.mp3",
+  "static/strangeShop.mp3": "static/strangeShop-5dd8261a997ed9dfa015654953c97929.mp3",
+  "static/sweet.png": "static/sweet-be60ab4c6c2f6b304c9f667bf8bf754c.png",
+  "static/tatakai.mp3": "static/tatakai-e2fcd0a0f465943e5301a805193442d7.mp3"
+}

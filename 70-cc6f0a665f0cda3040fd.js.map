@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/mycomponents/game/Audio/assets/f1-annoyed.mp3"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"70-cc6f0a665f0cda3040fd.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/f1-annoyed-b9227b539c2456c0a25b1a0c1b3fae7c.mp3\";"],"sourceRoot":""}

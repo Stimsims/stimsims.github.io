@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{YYnN:function(e,t,s){"use strict";var a=s("q1tI"),n=s.n(a),o=s("tkF3"),r=s("kjjs");t.a=function(e){return n.a.createElement("div",{id:"class-share"},n.a.createElement(o.a,{onLoad:function(){gapi.sharetoclassroom.render("class-share",{size:"30",theme:"dark",url:Object(r.getFullUrl)(),locale:"en-US",title:e.title,body:e.description})},script:"https://apis.google.com/js/platform.js"}))}}}]);
+//# sourceMappingURL=views~component---src-templates-game-post-js~component---src-templates-teachers-js-b7f6c501641b9537c9fd.js.map

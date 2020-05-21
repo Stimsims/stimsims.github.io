@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/mycomponents/game/Views/Image/images/kara.png"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"67-35f9a009cab990e8496e.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/kara-e4a8cc75358bac94dd9e632293014f39.png\";"],"sourceRoot":""}

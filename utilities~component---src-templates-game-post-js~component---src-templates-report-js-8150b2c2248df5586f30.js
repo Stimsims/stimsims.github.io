@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{hhzR:function(n,t,o){"use strict";o.d(t,"a",(function(){return u}));o("q8oJ"),o("8npG");var r=function(){return(65536*(1+Math.random())|0).toString(16).substring(1)},u=function(){return r()+"-"+r()+"-"+r()+"-"+r()}}}]);
+//# sourceMappingURL=utilities~component---src-templates-game-post-js~component---src-templates-report-js-8150b2c2248df5586f30.js.map

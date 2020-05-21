@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{TZ4z:function(a,e,p){a.exports=p.p+"static/observe-the-star-c4d095de6ec6a459d4a16c97aad038d7.mp3"}}]);
+//# sourceMappingURL=80-d5c2045041f7c24ef305.js.map

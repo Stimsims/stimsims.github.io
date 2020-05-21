@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{lksD:function(o,p,c){o.exports=c.p+"static/good-work-neku-597291c56bd75407c9a76ca36d2b1636.mp3"}}]);
+//# sourceMappingURL=79-5380d4be2cdddc7f29a4.js.map

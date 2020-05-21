@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{gtUh:function(p,a,n){p.exports=n.p+"static/f1-laugh-0a0a357909205a8e1f96574985492cb0.mp3"}}]);
+//# sourceMappingURL=74-4012ad6509a4bc929cc3.js.map

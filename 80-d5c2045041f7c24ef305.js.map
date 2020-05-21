@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/mycomponents/game/Audio/assets/observe-the-star.mp3"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"80-d5c2045041f7c24ef305.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/observe-the-star-c4d095de6ec6a459d4a16c97aad038d7.mp3\";"],"sourceRoot":""}

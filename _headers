@@ -1,0 +1,355 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-2e691a1227303edf9cf9.js
+  Cache-Control: public, max-age=31536000, immutable
+/484bcb1e-3718db9b46544bccb1c3.js
+  Cache-Control: public, max-age=31536000, immutable
+/8673774c-878e2b70f1b1ffa85e54.js
+  Cache-Control: public, max-age=31536000, immutable
+/ff239f9d-510786be508ceb6c309d.js
+  Cache-Control: public, max-age=31536000, immutable
+/071290cb-e5efce526e1d63ddae3b.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.6d461ab1336911ab45bf.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-6b8affa5cc22cb60670e.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-account-js~component---src-templates-game-post-js~component---src-templa~50ba60f4-094f66edeeab6d3395b6.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-game-post-js~component---src-templates-report-js~component---src-tem~ce3cbfe2-46cde478a01a595484ad.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game-post-js-f9581505fc4a249f116e.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-game-post-js~component---src-templates-report-js-2298698aefddb5deaa06.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-account-js~component---src-templates-game-post-js-74e7323fc1c484ca9540.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-game-post-js~component---src-templates-press-js-51979cac2ff7246532a0.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-game-post-js~component---src-templates-teachers-js-b7f6c501641b9537c9fd.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-templates-game-post-js-a4372addfe2fa3db540c.js
+  Cache-Control: public, max-age=31536000, immutable
+/lodash~component---src-templates-game-post-js-9cd2c1c569d406000c56.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-game-post-js-a4ec380bfda113b6e23e.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-pages-account-js~component---src-templates-game-post-js~component---src-temp~4e3a5c54-60229b93e074b8f58760.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-templates-game-post-js~component---src-templates-report-js~component---src-t~6cce4c82-aca8f356c57eae8d3073.js
+  Cache-Control: public, max-age=31536000, immutable
+/utilities~component---src-templates-game-post-js~component---src-templates-report-js~component---src~5d70c512-e10d8d29e5f9b6925f67.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-pages-about-js~component---src-templates-game-post-js-27b9cc377d3b17d16a6b.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-templates-game-post-js~component---src-templates-report-js-f91d0ef49d9a03beb26e.js
+  Cache-Control: public, max-age=31536000, immutable
+/utilities~component---src-templates-game-post-js~component---src-templates-report-js-8150b2c2248df5586f30.js
+  Cache-Control: public, max-age=31536000, immutable
+/utilities~component---src-templates-game-post-js-cffa04c8112eae5055aa.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-templates-game-post-js-2f8e055f703461252ab6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-game-post-js-976f7c9f8c2d1f1b2d41.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-report-js-76ae7bd5415d6f08feba.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-teachers-js-3ea5141e41975c95684f.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-templates-teachers-js-5ac6d648086928ab9e9d.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~component---src-templates-teachers-js-7cd2c8d1aec16cae710c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-teachers-js-e7df19a805253935dcec.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-press-js-37444900507fca16a2f5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-4caaf1adea302f52db8b.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js~component---src-pages-account-js-d032ed993840cafda8f6.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-about-js-20c46fea601ac9c2412c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-js-f1e48fcceb5f92f3224b.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~component---src-pages-account-js-cb93da1021a8995178e5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-account-js-e4655c4617a06ff62969.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-00fae6b62f2cdd9e9e5d.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-d1a1780ba3332babb2da.js
+  Cache-Control: public, max-age=31536000, immutable
+/05d954cf-e98d92c75768d83469e6.js
+  Cache-Control: public, max-age=31536000, immutable
+/88347bea-e527ebd8082d35ee868d.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-b5740f94e56e36b3cd8a.js
+  Cache-Control: public, max-age=31536000, immutable
+/lodash~app-a94acde571cb514b4af8.js
+  Cache-Control: public, max-age=31536000, immutable
+/views~app-6dcce27a11c5ca0c4995.js
+  Cache-Control: public, max-age=31536000, immutable
+/nerdamer~app-499f0d101f5ee95501f6.js
+  Cache-Control: public, max-age=31536000, immutable
+/vendors~app-07c7e6c9bde254df8177.js
+  Cache-Control: public, max-age=31536000, immutable
+/utilities~app-56794e3bec43036a5e61.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-285c491d206d712b67c3.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-2e691a1227303edf9cf9.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </484bcb1e-3718db9b46544bccb1c3.js>; rel=preload; as=script
+  Link: </8673774c-878e2b70f1b1ffa85e54.js>; rel=preload; as=script
+  Link: </ff239f9d-510786be508ceb6c309d.js>; rel=preload; as=script
+  Link: </071290cb-e5efce526e1d63ddae3b.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js~component---src-templa~50ba60f4-094f66edeeab6d3395b6.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-report-js~component---src-tem~ce3cbfe2-46cde478a01a595484ad.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game-post-js-f9581505fc4a249f116e.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-report-js-2298698aefddb5deaa06.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js-74e7323fc1c484ca9540.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-press-js-51979cac2ff7246532a0.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-teachers-js-b7f6c501641b9537c9fd.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-templates-game-post-js-a4372addfe2fa3db540c.js>; rel=preload; as=script
+  Link: </lodash~component---src-templates-game-post-js-9cd2c1c569d406000c56.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js-a4ec380bfda113b6e23e.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-account-js~component---src-templates-game-post-js~component---src-temp~4e3a5c54-60229b93e074b8f58760.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js~component---src-templates-report-js~component---src-t~6cce4c82-aca8f356c57eae8d3073.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js~component---src-templates-report-js~component---src~5d70c512-e10d8d29e5f9b6925f67.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-templates-game-post-js-27b9cc377d3b17d16a6b.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js~component---src-templates-report-js-f91d0ef49d9a03beb26e.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js~component---src-templates-report-js-8150b2c2248df5586f30.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js-cffa04c8112eae5055aa.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js-2f8e055f703461252ab6.js>; rel=preload; as=script
+  Link: </component---src-templates-game-post-js-976f7c9f8c2d1f1b2d41.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/report/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </484bcb1e-3718db9b46544bccb1c3.js>; rel=preload; as=script
+  Link: </8673774c-878e2b70f1b1ffa85e54.js>; rel=preload; as=script
+  Link: </ff239f9d-510786be508ceb6c309d.js>; rel=preload; as=script
+  Link: </071290cb-e5efce526e1d63ddae3b.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js~component---src-templa~50ba60f4-094f66edeeab6d3395b6.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-report-js~component---src-tem~ce3cbfe2-46cde478a01a595484ad.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-report-js-2298698aefddb5deaa06.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-account-js~component---src-templates-game-post-js~component---src-temp~4e3a5c54-60229b93e074b8f58760.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js~component---src-templates-report-js~component---src-t~6cce4c82-aca8f356c57eae8d3073.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js~component---src-templates-report-js~component---src~5d70c512-e10d8d29e5f9b6925f67.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js~component---src-templates-report-js-f91d0ef49d9a03beb26e.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js~component---src-templates-report-js-8150b2c2248df5586f30.js>; rel=preload; as=script
+  Link: </component---src-templates-report-js-76ae7bd5415d6f08feba.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/report/page-data.json>; rel=preload; as=fetch; crossorigin
+/teachers/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </484bcb1e-3718db9b46544bccb1c3.js>; rel=preload; as=script
+  Link: </8673774c-878e2b70f1b1ffa85e54.js>; rel=preload; as=script
+  Link: </ff239f9d-510786be508ceb6c309d.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js~component---src-templa~50ba60f4-094f66edeeab6d3395b6.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-report-js~component---src-tem~ce3cbfe2-46cde478a01a595484ad.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-teachers-js-3ea5141e41975c95684f.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-teachers-js-b7f6c501641b9537c9fd.js>; rel=preload; as=script
+  Link: </views~component---src-templates-teachers-js-5ac6d648086928ab9e9d.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-account-js~component---src-templates-game-post-js~component---src-temp~4e3a5c54-60229b93e074b8f58760.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-game-post-js~component---src-templates-report-js~component---src-t~6cce4c82-aca8f356c57eae8d3073.js>; rel=preload; as=script
+  Link: </utilities~component---src-templates-game-post-js~component---src-templates-report-js~component---src~5d70c512-e10d8d29e5f9b6925f67.js>; rel=preload; as=script
+  Link: </vendors~component---src-templates-teachers-js-7cd2c8d1aec16cae710c.js>; rel=preload; as=script
+  Link: </component---src-templates-teachers-js-e7df19a805253935dcec.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/teachers/page-data.json>; rel=preload; as=fetch; crossorigin
+/press/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js>; rel=preload; as=script
+  Link: </views~component---src-templates-game-post-js~component---src-templates-press-js-51979cac2ff7246532a0.js>; rel=preload; as=script
+  Link: </component---src-templates-press-js-37444900507fca16a2f5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/press/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4caaf1adea302f52db8b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-teachers-js-3ea5141e41975c95684f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game-post-js-f9581505fc4a249f116e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js-d032ed993840cafda8f6.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-templates-game-post-js-a4372addfe2fa3db540c.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js-20c46fea601ac9c2412c.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-templates-game-post-js-27b9cc377d3b17d16a6b.js>; rel=preload; as=script
+  Link: </component---src-pages-about-js-f1e48fcceb5f92f3224b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/account/
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </484bcb1e-3718db9b46544bccb1c3.js>; rel=preload; as=script
+  Link: </8673774c-878e2b70f1b1ffa85e54.js>; rel=preload; as=script
+  Link: </ff239f9d-510786be508ceb6c309d.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~e0380f62-65f07ada3739c250979d.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game~852cbb98-c2a8fcd3631142f058f4.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js~component---src-templa~50ba60f4-094f66edeeab6d3395b6.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-teachers-js-3ea5141e41975c95684f.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-game-post-js-f9581505fc4a249f116e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-about-js~component---src-pages-account-js-d032ed993840cafda8f6.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js~component---src-templates-game-post-js-74e7323fc1c484ca9540.js>; rel=preload; as=script
+  Link: </views~component---src-pages-account-js-cb93da1021a8995178e5.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-about-js~component---src-pages-account-js~component---src-templates-ga~e75178d7-32f8cdfbb14fbfd0ee31.js>; rel=preload; as=script
+  Link: </vendors~component---src-pages-account-js~component---src-templates-game-post-js~component---src-temp~4e3a5c54-60229b93e074b8f58760.js>; rel=preload; as=script
+  Link: </component---src-pages-account-js-e4655c4617a06ff62969.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/account/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-00fae6b62f2cdd9e9e5d.js>; rel=preload; as=script
+  Link: </framework-d1a1780ba3332babb2da.js>; rel=preload; as=script
+  Link: </05d954cf-e98d92c75768d83469e6.js>; rel=preload; as=script
+  Link: </88347bea-e527ebd8082d35ee868d.js>; rel=preload; as=script
+  Link: </532a2f07-b5740f94e56e36b3cd8a.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </lodash~app-a94acde571cb514b4af8.js>; rel=preload; as=script
+  Link: </views~app-6dcce27a11c5ca0c4995.js>; rel=preload; as=script
+  Link: </nerdamer~app-499f0d101f5ee95501f6.js>; rel=preload; as=script
+  Link: </vendors~app-07c7e6c9bde254df8177.js>; rel=preload; as=script
+  Link: </utilities~app-56794e3bec43036a5e61.js>; rel=preload; as=script
+  Link: </app-285c491d206d712b67c3.js>; rel=preload; as=script
+  Link: </styles-6b8affa5cc22cb60670e.js>; rel=preload; as=script
+  Link: </views~component---src-pages-404-js~component---src-pages-about-js~component---src-pages-account-js~c~f49786db-1938146e194129e3476f.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-4caaf1adea302f52db8b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
